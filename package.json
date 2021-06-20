@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "bot brabo dos guri",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
